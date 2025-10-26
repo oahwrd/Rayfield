@@ -269,8 +269,8 @@ local RayfieldLibrary = {
 		Default = {
 			TextColor = Color3.fromRGB(240, 240, 240),
 
-			Background = Color3.fromRGB(25, 25, 25),
-			Topbar = Color3.fromRGB(34, 34, 34),
+			Background = Color3.fromRGB(20, 20, 20),
+			Topbar = Color3.fromRGB(20, 20, 20),
 			Shadow = Color3.fromRGB(20, 20, 20),
 
 			NotificationBackground = Color3.fromRGB(20, 20, 20),
@@ -292,13 +292,13 @@ local RayfieldLibrary = {
 			SliderProgress = Color3.fromRGB(50, 138, 220),
 			SliderStroke = Color3.fromRGB(58, 163, 255),
 
-			ToggleBackground = Color3.fromRGB(30, 30, 30),
-			ToggleEnabled = Color3.fromRGB(139, 92, 246),
-			ToggleDisabled = Color3.fromRGB(100, 100, 100),
+			ToggleBackground = Color3.fromRGB(139, 92, 246),
+			ToggleEnabled = Color3.fromRGB(240, 240, 240),
+			ToggleDisabled = Color3.fromRGB(240, 240, 240),
 			ToggleEnabledStroke = Color3.fromRGB(139, 92, 246),
-			ToggleDisabledStroke = Color3.fromRGB(125, 125, 125),
-			ToggleEnabledOuterStroke = Color3.fromRGB(100, 100, 100),
-			ToggleDisabledOuterStroke = Color3.fromRGB(65, 65, 65),
+			ToggleDisabledStroke = Color3.fromRGB(139, 92, 246),
+			ToggleEnabledOuterStroke = Color3.fromRGB(139, 92, 246),
+			ToggleDisabledOuterStroke = Color3.fromRGB(139, 92, 246),
 
 			DropdownSelected = Color3.fromRGB(40, 40, 40),
 			DropdownUnselected = Color3.fromRGB(30, 30, 30),
